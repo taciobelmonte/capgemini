@@ -16,7 +16,7 @@ After NPM installed and running, you will need to setup this app. See instructio
 
 2 - Start the development server with `npm start`
 
-It's done! You should have World Weather running straight way...
+It's done! You should have this app running straight way...
 
 ## Project Structure
 ```bash
