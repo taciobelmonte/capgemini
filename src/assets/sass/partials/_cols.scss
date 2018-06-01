@@ -1,0 +1,80 @@
+.col-25 {
+  @include span-columns(3);
+  @include omega(4n);
+}
+
+.column-25{
+  width:25%;
+}
+
+.col-33 {
+  @include span-columns(4);
+  @include omega(3n);
+}
+
+.col-44{
+  width:44%;
+}
+
+.col-30{
+  width:30%;
+}
+
+.col-50 {
+  @include span-columns(6);
+  @include omega(2n);
+}
+
+.col-66 {
+  @include span-columns(8);
+}
+
+.col-75 {
+  @include span-columns(9);
+}
+
+.col-20{
+  width:20%;
+}
+
+.col-70 {
+  width:70%;
+  float:left;
+}
+
+.col-75 {
+  width:75%;
+  float:left;
+}
+
+.col-15{
+  width:15%;
+  float:left;
+}
+
+.col-80 {
+  float:left;
+  width:80%;
+}
+
+.col-90{
+  width:90%;
+}
+
+.col-10{
+  width:10%;
+  float:left;
+}
+
+.col-100 {
+  @include span-columns(12);
+}
+
+.col-15{
+  width:15%;
+}
+
+.col-85{
+  width:85%;
+}
+
